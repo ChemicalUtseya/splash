@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">splash</string>
+    <string name="message">MAIN ACTIVITY!</string>
+    <string name="loading">LOADING</string>
+</resources>
